@@ -4,7 +4,7 @@
 
 You can visit  <a href="https://elenalomova.online/">🏠 My Personal Page</a> if you want to find out more.
 
-- 🔭 I currently work as a consultant in digital product management and strategic marketing.
+- 🔭 I currently work as a consultant on digital product management and strategic marketing.
 - 👯 I am open to the possibility of collaborating with startups as a Head of Product Marketing or a Product Manager.
 - 💬 Ask me about how to build and grow digital products!
 - 📫 How to reach me: feel free to contact me via i@elenalomova.online and telegram: <a href="@t.me/ElenaLomova1987">@ElenaLomova1987</a>.
