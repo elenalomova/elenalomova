@@ -1,9 +1,6 @@
-## Hi there 👋
+##  😎 Hi, I'm Lena
 
-<!--
-**elenalomova/elenalomova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<hr>
 
 - 🔭 I currently work as a consultant in digital product management and strategic marketing.
 - 👯 I am open to the possibility of collaborating with startups as a Head of Product Marketing or a Product Manager.
